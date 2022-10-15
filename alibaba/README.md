@@ -24,11 +24,14 @@ Follow the steps below to run the Prisma Cloud Alibaba Cloud License Sizing Scri
 1. Download the sizing script to your local computer
     1. [resource-count-abc.sh](resource-count-abc.sh)
 1. Log into your Alibaba Cloud Console
-1. Launch the Alibaba Cloud Cloud Shell
-1. Click on the cloud on the left side of the Cloud Shell window
-1. Select "Upload"
-1. Upload the sizing script to your Alibaba Cloud Shell
-1. Run the sizing script.
+2. Create or Reuse Access Key under User Profile
+3. Create the Alibaba Cloud Shell Config
+4. Verify the Alibaba Cloud Shell Config
+5. Launch the Alibaba Cloud Cloud Shell
+6. Click on the cloud on the left side of the Cloud Shell window
+7. Select "Upload"
+8. Upload the sizing script to your Alibaba Cloud Shell
+9. Run the sizing script.
     1. `chmod +x resource-count-abc.sh`
     1. `./resource-count-abc.sh`
-1. Share the results with your Palo Alto Networks team
+10. Share the results with your Palo Alto Networks team
